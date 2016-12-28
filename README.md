@@ -14,6 +14,3 @@ A shared memory version and two distributed approach using MPJ Express and socke
 
 ## Samples
 ![Scheme](Assets/sample1.png)
-
-![Scheme](Assets/sample2.png)
-
